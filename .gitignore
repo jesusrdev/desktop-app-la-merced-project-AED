@@ -1,6 +1,8 @@
 /.metadata/
 /.recommenders/
 
+**/jcalendar-1.4
+
 
 # Compiled class file
 *.class
