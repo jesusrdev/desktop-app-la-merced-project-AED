@@ -1,0 +1,35 @@
+101;Maiz Amarillo;1.3;Aves;Pienso
+102;Maiz Chancado;1.48;Aves;Pienso
+103;Torta de Soya;2.46;Aves;Mezcla
+104;Torta de Girasol;2.1;Aves;Mezcla
+105;Polvillo;0.66;Aves;Pienso
+106;Afrecho;1.19;Aves;Pienso
+107;Integral;2.5;Aves;Pienso
+108;Torta de Palmiste;2.68;Aves;Mezcla
+109;Cascarilla Palmiste;0.35;Aves;Pienso
+110;Sal;0.65;Aves;Pienso
+111;Bicarbonato;3.22;Aves;Pienso
+112;Pancamel;0.8;Aves;Pienso
+113;Prime 100;12.05;Aves;Pienso
+114;Progras;2.5;Aves;Pienso
+115;Fosfato;4.46;Aves;Pienso
+116;B. Aves;2.21;Aves;Suplemento
+117;Melaza;2.8;Aves;Pienso
+119;Procreating;3.0;Aves;Pienso
+120;Toxibond;3.3;Aves;Pienso
+121;Calcio;0.32;Aves;Pienso
+122;Metionina;12.3;Aves;Pienso
+123;Pre. Postura;3.4;Aves;Pienso
+124;B. Ganado;1.45;Aves;Suplemento
+125;Lisina;3.6;Aves;Pienso
+126;Colina;3.5;Aves;Pienso
+127;Fungiker;1.8;Aves;Pienso
+128;P. Pollo;14.4;Aves;Pienso
+129;Aceite;2.0;Aves;Pienso
+130;Novafil;61.14;Aves;Pienso
+131;Coccidiostato;2.2;Aves;Pienso
+132;Zimbacitracina;2.3;Aves;Pienso
+133;Urea;2.4;Aves;Pienso
+134;Nucleo de Cerdo;20.32;Porcinos;Pienso
+135;DDGS;2.6;Aves;Pienso
+136;Pepa de Algodon;2.7;Aves;Pienso

@@ -1,0 +1,4 @@
+1001;Otar Hefer;Vega Cordova;74987201;957595878;Soltero
+1002;Kevin Alexander;Briceño Quezada;73465903;989647597;Soltero
+1003;Jesus Eduardo;Rojas Alarcon;73987289;934583498;Soltero
+1005;Nun Abdiel;Zevallos Acosta;74987201;934584355;Soltero

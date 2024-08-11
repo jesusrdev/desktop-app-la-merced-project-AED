@@ -1,0 +1,54 @@
+E001-5180;01/08/2023;20482469079;Granja Avicola La Yema SAC;Polvillo;0.66;2010.0;1087.81
+E001-5180;01/08/2023;20482469079;Granja Avicola La Yema SAC;Calcio;0.32;39.0;10.23
+E001-5181;01/08/2023;20534973145;Agroinversiones Violeta EIRL;Afrecho;1.19;3680.0;3590.94
+E001-5182;02/08/2023;20481754659;Agroindustrias Florida SAC;Afrecho;1.19;400.0;390.32
+E001-5182;02/08/2023;20481754659;Agroindustrias Florida SAC;Integral;2.5;500.0;1025.0
+E001-5182;02/08/2023;20481754659;Agroindustrias Florida SAC;Calcio;0.32;4000.0;1049.6
+E001-5183;03/08/2023;20603045298;Sociedad Agroavicola L&E SAC;Calcio;0.32;4000.0;1049.6
+E001-5184;03/08/2023;20608079565;Transportes y Ganaderia Cacho Blanco EIRL;Torta de Soya;2.46;2280.0;4599.22
+E001-5184;03/08/2023;20608079565;Transportes y Ganaderia Cacho Blanco EIRL;Afrecho;1.19;4000.0;3903.2
+E001-5184;03/08/2023;20608079565;Transportes y Ganaderia Cacho Blanco EIRL;B. Ganado;1.45;1000.0;1189.0
+E001-5185;04/08/2023;20314863195;Molino El Bosque EIRLTDA;Torta de Palmiste;2.68;1000.0;2197.6
+E001-5186;05/08/2023;20481222649;Agropecuaria La Mocherita SAC;Maiz Amarillo;1.25;2993.0;3067.83
+E001-5186;05/08/2023;20481222649;Agropecuaria La Mocherita SAC;Integral;2.5;292.0;598.6
+E001-5187;05/08/2023;20481933821;Agropecuaria CPP Sociedad Anonima Cerrada;Maiz Amarillo;1.25;5434.0;5569.85
+E001-5187;05/08/2023;20481933821;Agropecuaria CPP Sociedad Anonima Cerrada;Afrecho;1.19;2010.0;1961.36
+E001-5191;08/08/2023;20481124981;Avicola Virgen del Cisne SAC;Torta de Palmiste;2.68;15000.0;32964.0
+E001-5192;08/08/2023;820132292109;Agropecuaria San Miguel SRL;Maiz Amarillo;1.25;4889.0;5011.23
+E001-5192;08/08/2023;20132292109;Agropecuaria San Miguel SRL;Polvillo;0.66;270.0;146.12
+E001-5192;08/08/2023;20132292109;Agropecuaria San Miguel SRL;Torta de Palmiste;2.68;15000.0;32964.0
+E001-5193;15/08/2023;20481124981;Avicola Virgen del Cisne SAC;Integral;2.5;580.0;1189.0
+E001-5193;15/08/2023;20481124981;Avicola Virgen del Cisne SAC;Sal;0.65;39.0;20.79
+E001-5194;16/08/2023;20481034729;Molino el Cortijo SAC;Calcio;0.32;1945.5;510.5
+E001-5195;17/08/2023;20600122887;Alimentos Balanceados Se�or de los Milagros SAC;Polvillo;0.66;780.0;422.14
+E001-5195;17/08/2023;20600122887;Alimentos Balanceados Se�or de los Milagros SAC;B. Ganado;1.45;1000.0;1189.0
+E001-5196;19/08/2023;20482469079;Granja Avicola La Yema SAC;Torta de Soya;2.46;1300.0;2622.36
+E001-5196;19/08/2023;20482469079;Granja Avicola La Yema SAC;Afrecho;1.19;215.0;209.8
+E001-5197;22/08/2023;20560111372;Avicola San Pedro De Lloc SAC;Maiz Amarillo;1.25;2690.0;2757.25
+E001-5198;22/08/2023;10188333597;Florian Lescano Modesto Marcelino;Maiz Amarillo;1.25;2690.0;2757.25
+E001-5198;22/08/2023;10188333597;Florian Lescano Modesto Marcelino;Polvillo;0.66;150.0;81.18
+E001-5198;22/08/2023;10188333597;Florian Lescano Modesto Marcelino;Afrecho;1.19;510.0;497.66
+E001-5198;22/08/2023;10188333597;Florian Lescano Modesto Marcelino;Afrecho;2.21;1000.0;1812.2
+E001-5198;22/08/2023;10188333597;Florian Lescano Modesto Marcelino;Calcio;0.32;973.0;255.32
+E001-5199;25/08/2023;20481124981;Avicola Virgen del Cisne SAC;Polvillo;0.66;480.0;259.78
+E001-5200;26/08/2023;20481124981;Avicola Virgen del Cisne SAC;Torta de Girasol;2.1;2180.0;3753.96
+E001-5200;26/08/2023;20481124981;Avicola Virgen del Cisne SAC;Calcio;0.32;724.0;189.98
+E001-5201;26/08/2023;20608029967;Procesadora de Aceites y Pinesos SAC;Integral;2.5;464.0;951.2
+E001-5202;28/08/2023;20440365095;Agropecuaria Yois SRL;Integral;2.5;1770.0;3628.5
+E001-5202;28/08/2023;20440365095;Agropecuaria Yois SRL;Cascarilla Palmiste;0.35;23810.0;6833.47
+E001-5202;28/08/2023;20440365095;Agropecuaria Yois SRL;B. Ganado;1.45;1000.0;1189.0
+E001-5203;28/08/2023;20608029967;Procesadora de Aceites y Pinesos SAC;Polvillo;0.66;200.0;108.24
+E001-5203;28/08/2023;20608029967;Procesadora de Aceites y Pinesos SAC;B. Ganado;1.45;1000.0;1189.0
+E001-5204;01/09/2023;20438904337;Granja Italia SAC;Polvillo;0.35;23810.0;6833.47
+E001-5205;01/09/2023;20481361762;Agropecuaria Do�a Francisca SAC;Integral;2.5;15000.0;30750.0
+E001-5205;01/09/2023;20481361762;Agropecuaria Do�a Francisca SAC;Pancamel;0.8;500.0;328.0
+E001-5205;01/09/2023;20481361762;Agropecuaria Do�a Francisca SAC;B. Ganado;1.45;1000.0;1189.0
+E001-5206;03/09/2023;20481028087;Representaciones Moravi SAC;Prime 100;12.05;2.0;19.76
+E001-5207;04/09/2023;20481361762;Agropecuaria Do�a Francisca SAC;Torta de Girasol;2.1;5850.0;10073.7
+E001-5207;04/09/2023;20481361762;Agropecuaria Do�a Francisca SAC;Afrecho;1.19;32000.0;31225.6
+E001-5207;04/09/2023;20481361762;Agropecuaria Do�a Francisca SAC;Cascarilla de Palmiste;0.35;32000.0;9184.0
+E001-5208;07/09/2023;20480924895;Agroindustria Alimentaria Nutriaves EIRL;Afrecho;1.19;15000.0;14637.0
+E001-5209;09/09/2023;20481754659;Agroindustrias Florida SAC;Torta de Soya;2.46;15000.0;30258.0
+E001-5209;09/09/2023;20481754659;Agroindustrias Florida SAC;Sal;0.65;57.0;30.38
+E001-5210;11/09/2023;20440365095;Agropecuaria Yois SRL;Polvillo;0.66;2010.0;1087.81
+E001-5210;12/09/2023;20440365095;Agropecuaria Yois SRL;B. Ganado;1.45;1000.0;1189.0

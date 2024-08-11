@@ -1,0 +1,40 @@
+1001;20559543994;Ing.Carlos Silva;Granja Nilda Silva E.I.R.L.;Avicultor;Guadalupe;Secretaria Dina;987654321
+1002;22041754659;Sra.Liseth;Agroindustrias Florida SAC;Molino;Trujillo;Sra. Liseth;987654321
+1003;20534973145;Doña Violeta;Agroinversiones Violeta EIRL;Avicultor;Lima;Sra. Flor;987654321
+1004;20481933821;Sra.lupe Placencia;Agropecuaria CPP Sociedad Anonima Cerrada;Avicultor;Guadalupe;Sr. Lupe Plasencia;987654321
+1005;20481361762;Doña Francisca;Agropecuaria Doña Francisca SAC;Avicultor;Paijan;Sr. Segundo Rodriguez;987654321
+1006;20481222649;Sra.Jean Placencia;Agropecuaria La Mocherita SAC;Avicultor;Moche;Sr. Jean Carlo;987654321
+1007;20482097007;Santos Reyes;Agropecuaria Santo Domingo SAC;Avicultor;Trujillo;Santos Reyes;987654321
+1008;20531557311;Dorith Flores Placencia;Agropecuaria V & F;Avicultor;Tarapoto;Dorith Flores;987654321
+1009;20440365095;Jhoni Niño;Agropecuaria Yois SRL;Avicultor;Chiquitoy;Jhoni Niño;987654321
+1010;20540079227;Contreras Cristobal;Agropecuria Avipor SAC;Avicultor;Trujillo;Contreras Cristobal;987654321
+1011;20600122887;Lucho Reyes;Alimentos Balanceados Señor de los Milagros SAC;Avicultor;Trujillo;Sr.Lucho;987654321
+1012;20481124981;Sra.Magaly;Avicola Virgen del Cisne SAC;Molino;Trujillo;Sra. Magaly;987654321
+1013;20560111372;Ing Jorge Kong;Avicola San Pedro De Lloc SAC;Avicultor;Pacasmayo;Ing Jorge Kong;987654321
+1014;20132292109;Ing Jorge Kong;Agropecuaria San Miguel SRL;Avicultor;Pacasmayo;Ing Jorge Kong;987654321
+1015;10192500104;Alex Bautista;Bautista Cruzado Alex Javier;Molino;Guadalupe;Alex Bautista;987654321
+1016;20608842676;Sr.Charles;Distribuidora Super Pio SAC;Avicultor;Molino Peletizado;Sr.Charles;987654321
+1017;20481297576;Sra.Melina;Emporio Virgen De Chapi SAC;Molino;Trujillo;Sra. Melina;987654321
+1018;20482063790;Sr Juan Alcantara;Empresa Agroindustrial Olivo Verde SAC;Ganadero;Trujillo;Sr Juan Alcantara;987654321
+1019;20440452141;Lalo Flores;Empresa Agropecuaria Los Luises SRL;Ganadero;Trujillo;Lalo Flores;987654321
+1020;20477731563;Eliana Ruiz;Establo El Milagro SAC;Ganadero;Trujillo;Eliana Ruiz;987654321
+1021;10454834556;Sr.Rusbell;Reyes Miguel Leydi Amahel;Ganadero;Trujillo;Sr. Rusbell;987654321
+1022;20601773059;Fernandez Brayan;Distribuciones Ferqui EIRL;Avicultor;Trujillo;Brayan;987654321
+1023;20608079565;Sr.Alamiro;Transportes y Ganaderia Cacho Blanco EIRL;Ganadero;Trujillo;Sr.Alamiro;987654321
+1024;20482469079;Srta.Rosmery;Granja Avicola La Yema SAC;Avicultor;Trujillo;Srta Rosmery;987654321
+1025;20438904337;Sr.Jaime;Granja Italia SAC;Avicultor;Moche;Sr. Jaime;987654321
+1026;20606264918;Carlos Irribarri; Avicola las Pampas el Rancho del Buen Pastor E.I.R.L;Avicultor;Paijan;Sr.Ibañez;987654321
+1027;10182214049;Sr.willy;Rodriguez Chavez Willy;Molino;Trujillo;Sr.willy;987654321
+1028;20440457968;Luis Diaz;Inversiones, Servicios Y Negociaciones Chodi SAC;Molino;Trujillo;Luis Diaz;987654321
+1029;20601496225;Javier Vargas - Paijan;Javier Vargas - Paijan;Molino;Paijan;Sr. Javier vargas;987654321
+1030;20606753561;Edgar Terrones;Nutre Mas Alimentos Balanceados EIRL;Molino;Chiclayo;Jhoset Conteras;987654321
+1031;20605756892;Srs.Julio Obustamante;Agropecuaria Avicola Mi Luz EIRL;Molino;Guadalupe;Sr. Julio Bustamante;987654321
+1032;20559680045;Srs.Julio Obustamante;Julio Bustamante Pineda;Molino;Guadalupe;Sr. Julio Bustamante;987654321
+1033;20602319807;Srta.Daniela;Agropecuaria la Encantada SAC;Molino;Huanchaco;Srta. Daniela;987654321
+1034;20601314674;Sr.Luis;Agronnegocios L&S SAC;Avicultor;Trujillo;Sr.Luis;987654321
+1035;20482076425;Luis Monsable;Agropecuaria Alexim SAC;Avicultor;Trujillo;Ing.Lichi Monsable;987654321
+1036;20604430993;Santiago.Cornelio;Merco Huevos SAC;Avicultor;Trujillo;Santiago Cornelio;987654321
+1037;10188333597;Sra.Lalo florian;Florian Lescano Modesto Marcelino;Avicultor;Chicama;Sr. Lalo Florian;987654321
+1038;20481597537;Srta Saori;Molinera Y Distribuidora San Carlos EIRL;Molino;Trujillo;Srta Saori;987654321
+1039;20314863195;Sra.Irma;Molino El Bosque EIRLTDA;Molino;Trujillo;Sra. Irma;987654321
+1040;20481034729;Cortijo;Molino el Cortijo SAC;Molino;Trujillo;Srta. Melvin;987654321

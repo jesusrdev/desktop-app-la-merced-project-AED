@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="librerias/jar_files/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="librerias/jar_files/castor-core-1.4.1.jar"/>
+	<classpathentry kind="lib" path="librerias/jar_files/castor-xml-1.4.1.jar"/>
+	<classpathentry kind="lib" path="librerias/jar_files/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="librerias/jar_files/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="librerias/jar_files/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="librerias/jar_files/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="librerias/jar_files/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="librerias/jar_files/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="librerias/jar_files/ecj-3.21.0.jar"/>
+	<classpathentry kind="lib" path="librerias/jar_files/itext-2.1.7.js8.jar"/>
+	<classpathentry kind="lib" path="librerias/jar_files/jackson-annotations-2.12.2.jar"/>
+	<classpathentry kind="lib" path="librerias/jar_files/jackson-core-2.12.2.jar"/>
+	<classpathentry kind="lib" path="librerias/jar_files/jackson-databind-2.12.2.jar"/>
+	<classpathentry kind="lib" path="librerias/jar_files/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="librerias/jar_files/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="librerias/jar_files/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="librerias/jcalendar-1.4/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="librerias/jcalendar-1.4/lib/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="librerias/jcalendar-1.4/lib/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="librerias/jcalendar-1.4/lib/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="librerias/jasperreports-6.20.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
